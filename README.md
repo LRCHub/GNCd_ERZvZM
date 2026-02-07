@@ -1,0 +1,26 @@
+# サンダーキャット – Them Changes
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:29.29] Nobody move, there's blood on the floor
+[00:34.45] And I can't find my heart
+[00:40.97] Where did it go? Did I leave it in the cold?
+[00:46.62] So please give it back, 'cause it's not yours to take
+[01:13.12] 
+[00:52.68] It must've fell when I lost my mind
+[00:58.58] Deep in the cut, drowning it in pain
+[01:04.40] Somebody help, 'cause I can't find my way
+[01:10.32] Nobody move, nobody move
+[01:22.32] 
+[01:39.81] Somebody tell me how I'm supposed to feel
+[01:45.42] When I'm sitting here knowing this ain't real
+[01:49.60] (Ain't real)
+[01:51.47] Why in the world would I give my heart to you?
+[01:57.03] Just to watch you throw it in the trash
+[02:16.53] 
+[02:03.23] I've been traveling so long, I don't think I can hold on
+[02:09.25] Where were you when I needed you the most?
+[02:14.61] Now I'm sitting here with a black hole in my chest
+[02:20.82] A heartless, broken mess
+```
