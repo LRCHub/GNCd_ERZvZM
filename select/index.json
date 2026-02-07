@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Them Changes",
+  "base_artist": "サンダーキャット",
+  "createdAt": "2026-02-07T12:30:55.001428Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Thundercat",
+      "has_synced": true,
+      "path": "select/01_Them_Changes_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Them Changes - Live",
+      "artist": "Jimi Hendrix",
+      "has_synced": false,
+      "path": "select/02_Them_Changes_-_Live_Jimi_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Thundercat",
+      "has_synced": true,
+      "path": "select/03_Them_Changes_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Carlos Santana, Buddy Miles",
+      "has_synced": false,
+      "path": "select/04_Them_Changes_Carlos_Santana,_Buddy_Miles.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Carlos Santana & Buddy Miles",
+      "has_synced": false,
+      "path": "select/05_Them_Changes_Carlos_Santana_&_Buddy_Miles.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Them Changes (Live)",
+      "artist": "Eric Clapton feat. Steve Winwood",
+      "has_synced": false,
+      "path": "select/06_Them_Changes_(Live)_Eric_Clapton_feat._Steve_Winwood.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Eric Clapton And Steve Winwood",
+      "has_synced": false,
+      "path": "select/07_Them_Changes_Eric_Clapton_And_Steve_Winwood.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Buddy Miles",
+      "has_synced": true,
+      "path": "select/08_Them_Changes_Buddy_Miles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/09_Them_Changes_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Kenny Wayne Shepherd",
+      "has_synced": true,
+      "path": "select/10_Them_Changes_Kenny_Wayne_Shepherd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Buddy Miles & The Freedom Express",
+      "has_synced": true,
+      "path": "select/11_Them_Changes_Buddy_Miles_&_The_Freedom_Express.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Buddy Miles & The Freedom Express",
+      "has_synced": true,
+      "path": "select/12_Them_Changes_Buddy_Miles_&_The_Freedom_Express.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Them Changes - Sped Up",
+      "artist": "Thundercat",
+      "has_synced": false,
+      "path": "select/13_Them_Changes_-_Sped_Up_Thundercat.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Them Changes - Live from Madison Square Garden",
+      "artist": "Eric Clapton feat. Steve Winwood",
+      "has_synced": false,
+      "path": "select/14_Them_Changes_-_Live_from_Madison_Square_Garden_Eric_Clapton_feat._Steve_Winwood.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Eric Clapton/Steve Winwood",
+      "has_synced": false,
+      "path": "select/15_Them_Changes_Eric_Clapton_Steve_Winwood.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Eric Clapton & Steve Winwood",
+      "has_synced": false,
+      "path": "select/16_Them_Changes_Eric_Clapton_&_Steve_Winwood.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Them Changes",
+      "artist": "Ledisi",
+      "has_synced": false,
+      "path": "select/17_Them_Changes_Ledisi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Them Changes",
+      "artist": "Thundercat",
+      "has_synced": false,
+      "path": "select/pl_01_Them_Changes_Thundercat.txt"
+    }
+  ]
+}
